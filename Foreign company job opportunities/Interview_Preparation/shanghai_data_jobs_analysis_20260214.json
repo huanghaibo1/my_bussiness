@@ -1,0 +1,605 @@
+{
+  "generated_at": "2026-02-14T11:28:13.714802",
+  "location": "Shanghai, China",
+  "focus": "Foreign Company Data Positions",
+  "job_listings": [
+    {
+      "company": "Microsoft",
+      "cn_company": "微软",
+      "position": "Senior Data Engineer",
+      "location": "Shanghai, China",
+      "salary_range": "40-70k RMB/month",
+      "posted_date": "2026-02-10",
+      "job_description": "\nWe are seeking a Senior Data Engineer to join our Azure Data Platform team in Shanghai.\n\nResponsibilities:\n- Design and build scalable data pipelines using Azure Data Factory, Databricks, and Synapse Analytics\n- Develop and maintain data warehouse solutions for business analytics\n- Collaborate with data scientists and analysts to ensure data quality and availability\n- Implement data governance and security best practices\n- Optimize ETL processes for performance and cost efficiency\n\nRequirements:\n- 5+ years of experience in data engineering\n- Strong proficiency in SQL, Python, and Spark\n- Experience with cloud data platforms (Azure, AWS, or GCP)\n- Solid understanding of data warehousing concepts (Kimball, Data Vault)\n- Experience with modern data stack tools (dbt, Airflow, etc.)\n- Excellent communication skills in English (written and verbal)\n- Bachelor's degree in Computer Science or related field\n\nPreferred:\n- Azure certifications (DP-203, DP-900)\n- Experience with real-time streaming (Kafka, Event Hub)\n- Knowledge of ML/AI concepts\n- Prior experience in multinational companies\n",
+      "skills": [
+        "Azure",
+        "Python",
+        "SQL",
+        "Spark",
+        "Data Warehousing",
+        "ETL",
+        "English"
+      ],
+      "source": "LinkedIn"
+    },
+    {
+      "company": "Amazon",
+      "cn_company": "亚马逊",
+      "position": "Data Engineer II",
+      "location": "Shanghai, China",
+      "salary_range": "35-60k RMB/month",
+      "posted_date": "2026-02-12",
+      "job_description": "\nAmazon Web Services (AWS) is looking for a Data Engineer to build next-generation data solutions.\n\nKey Responsibilities:\n- Build and maintain data pipelines using AWS services (Glue, EMR, Redshift, S3)\n- Design dimensional data models for analytics and reporting\n- Work with stakeholders to understand data requirements\n- Implement data quality checks and monitoring\n- Automate data workflows using Python and SQL\n\nBasic Qualifications:\n- 3+ years of data engineering experience\n- Proficiency in SQL and at least one programming language (Python/Java)\n- Experience with AWS or other cloud platforms\n- Understanding of data warehouse architecture\n- Strong problem-solving skills\n- Good English communication skills\n\nPreferred Qualifications:\n- AWS certifications\n- Experience with big data technologies (Hadoop, Spark)\n- Knowledge of data visualization tools (QuickSight, Tableau)\n- Experience in agile development environment\n- Familiar with Git and CI/CD practices\n",
+      "skills": [
+        "AWS",
+        "Python",
+        "SQL",
+        "Redshift",
+        "Data Modeling",
+        "ETL",
+        "English"
+      ],
+      "source": "Amazon Careers"
+    },
+    {
+      "company": "McKinsey & Company",
+      "cn_company": "麦肯锡",
+      "position": "Data Analyst",
+      "location": "Shanghai, China",
+      "salary_range": "30-50k RMB/month",
+      "posted_date": "2026-02-08",
+      "job_description": "\nJoin McKinsey's QuantumBlack team as a Data Analyst supporting advanced analytics projects.\n\nWhat You'll Do:\n- Conduct complex data analysis to support client consulting projects\n- Develop dashboards and visualizations using Tableau/Power BI\n- Perform statistical analysis and hypothesis testing\n- Collaborate with consultants and data scientists\n- Present findings to stakeholders and clients\n\nWhat You'll Bring:\n- 2-4 years of experience in data analysis\n- Advanced SQL skills and proficiency in Python or R\n- Experience with BI tools (Tableau, Power BI, Looker)\n- Strong statistical and analytical thinking\n- Excellent presentation and storytelling skills\n- Fluent English (both written and spoken)\n- Bachelor's degree in quantitative field\n\nBonus Points:\n- Experience in consulting or professional services\n- Knowledge of machine learning concepts\n- Industry expertise (finance, retail, healthcare)\n- Master's degree in relevant field\n",
+      "skills": [
+        "SQL",
+        "Python",
+        "Tableau",
+        "Statistics",
+        "Data Visualization",
+        "English",
+        "Presentation"
+      ],
+      "source": "McKinsey Careers"
+    },
+    {
+      "company": "Goldman Sachs",
+      "cn_company": "高盛",
+      "position": "Quantitative Data Analyst",
+      "location": "Shanghai, China",
+      "salary_range": "35-65k RMB/month",
+      "posted_date": "2026-02-11",
+      "job_description": "\nGoldman Sachs is seeking a Quantitative Data Analyst for our Shanghai office.\n\nResponsibilities:\n- Analyze large financial datasets to identify trends and insights\n- Build and maintain data models for risk and trading analytics\n- Develop automated reporting solutions using Python and SQL\n- Collaborate with traders, risk managers, and technology teams\n- Ensure data accuracy and consistency across systems\n\nRequirements:\n- 3+ years of experience in financial data analysis\n- Strong SQL and Python skills\n- Experience with financial databases and market data\n- Solid understanding of statistics and probability\n- Excellent attention to detail\n- Strong English communication skills\n- Bachelor's degree in Finance, Mathematics, Computer Science, or related field\n\nPreferred:\n- Experience with time series analysis\n- Knowledge of financial instruments and markets\n- Familiarity with data visualization tools\n- CFA or FRM certification\n",
+      "skills": [
+        "SQL",
+        "Python",
+        "Financial Analysis",
+        "Statistics",
+        "Data Modeling",
+        "English"
+      ],
+      "source": "Goldman Sachs Careers"
+    },
+    {
+      "company": "Accenture",
+      "cn_company": "埃森哲",
+      "position": "Data Warehouse Developer",
+      "location": "Shanghai, China",
+      "salary_range": "25-45k RMB/month",
+      "posted_date": "2026-02-09",
+      "job_description": "\nAccenture is looking for Data Warehouse Developers to join our Data & Analytics practice.\n\nKey Accountabilities:\n- Design and develop data warehouse solutions (Kimball methodology)\n- Build ETL processes using industry-standard tools\n- Create dimensional models (star schema, snowflake schema)\n- Optimize SQL queries and database performance\n- Document technical specifications and data lineage\n- Participate in requirement gathering and solution design\n\nMust-Have Skills:\n- 3-5 years of data warehouse development experience\n- Expert-level SQL skills\n- Experience with ETL tools (Informatica, SSIS, Talend, or similar)\n- Understanding of dimensional modeling principles\n- Database experience (Oracle, SQL Server, Teradata, or similar)\n- Good English reading and writing skills\n\nNice-to-Have:\n- Cloud data warehouse experience (Snowflake, Redshift, BigQuery)\n- Scripting skills (Python, Shell)\n- Experience with Agile/Scrum methodology\n- Relevant certifications\n",
+      "skills": [
+        "SQL",
+        "ETL",
+        "Data Warehousing",
+        "Dimensional Modeling",
+        "Informatica",
+        "English"
+      ],
+      "source": "Accenture Careers"
+    },
+    {
+      "company": "SAP",
+      "cn_company": "思爱普",
+      "position": "Analytics Engineer",
+      "location": "Shanghai, China",
+      "salary_range": "30-55k RMB/month",
+      "posted_date": "2026-02-13",
+      "job_description": "\nSAP is hiring an Analytics Engineer to work on our cloud analytics platform.\n\nWhat You'll Do:\n- Transform raw data into analytics-ready datasets using dbt\n- Design and implement metrics layer for business reporting\n- Build and maintain data pipelines in cloud environments\n- Work closely with analysts to understand data needs\n- Establish data quality standards and testing frameworks\n- Create documentation for data models and processes\n\nWhat We're Looking For:\n- 3+ years in analytics engineering or data engineering role\n- Strong SQL skills and experience with modern data stack\n- Hands-on experience with dbt (data build tool)\n- Familiarity with cloud data platforms (Snowflake, BigQuery, Redshift)\n- Understanding of software engineering best practices (Git, testing, CI/CD)\n- Python knowledge is a plus\n- Good English communication skills\n\nPreferred:\n- Experience with data orchestration tools (Airflow, Prefect, Dagster)\n- Knowledge of BI tools and semantic layers\n- Background in analytics or data science\n",
+      "skills": [
+        "SQL",
+        "dbt",
+        "Python",
+        "Modern Data Stack",
+        "Cloud Platforms",
+        "Git",
+        "English"
+      ],
+      "source": "SAP Careers"
+    },
+    {
+      "company": "Deloitte",
+      "cn_company": "德勤",
+      "position": "Senior Data Scientist",
+      "location": "Shanghai, China",
+      "salary_range": "40-80k RMB/month",
+      "posted_date": "2026-02-07",
+      "job_description": "\nDeloitte Consulting is seeking a Senior Data Scientist for client-facing analytics projects.\n\nRole Overview:\n- Lead end-to-end data science projects for enterprise clients\n- Develop predictive models and machine learning solutions\n- Conduct advanced statistical analysis and experiments\n- Translate business problems into analytical frameworks\n- Present insights and recommendations to C-level executives\n- Mentor junior team members\n\nRequired Skills:\n- 5+ years of experience in data science or advanced analytics\n- Strong foundation in statistics, machine learning, and algorithms\n- Proficiency in Python (scikit-learn, pandas, numpy)\n- Experience with SQL and data manipulation\n- Proven track record of delivering business impact\n- Excellent stakeholder management and presentation skills\n- Fluent in English and Mandarin\n- Master's or PhD in quantitative field preferred\n\nDesirable:\n- Consulting experience\n- Experience with cloud ML platforms (AWS SageMaker, Azure ML, GCP Vertex AI)\n- Knowledge of deep learning frameworks (TensorFlow, PyTorch)\n- Industry expertise in financial services, retail, or manufacturing\n",
+      "skills": [
+        "Python",
+        "Machine Learning",
+        "Statistics",
+        "SQL",
+        "Consulting",
+        "English",
+        "Presentation"
+      ],
+      "source": "Deloitte Careers"
+    },
+    {
+      "company": "HSBC",
+      "cn_company": "汇丰银行",
+      "position": "Data Engineer - Risk Analytics",
+      "location": "Shanghai, China",
+      "salary_range": "35-60k RMB/month",
+      "posted_date": "2026-02-10",
+      "job_description": "\nHSBC is looking for a Data Engineer to support risk analytics and regulatory reporting.\n\nResponsibilities:\n- Build data pipelines for credit risk, market risk, and operational risk\n- Develop ETL processes to consolidate data from multiple sources\n- Work with risk analysts and compliance teams\n- Ensure data quality and regulatory compliance (Basel III, IFRS9)\n- Optimize database performance for large-scale risk calculations\n- Support regulatory reporting and stress testing exercises\n\nRequirements:\n- 4+ years of data engineering experience, preferably in banking/finance\n- Strong SQL skills and database knowledge (Oracle, SQL Server, Teradata)\n- Experience with ETL tools and data integration\n- Understanding of banking products and risk concepts\n- Attention to detail and commitment to data accuracy\n- Good English communication skills\n- Bachelor's degree in Computer Science, Engineering, or related field\n\nPreferred:\n- Experience with regulatory reporting (FRTB, IFRS9, etc.)\n- Knowledge of big data technologies (Hadoop, Spark)\n- Python or R programming skills\n- Relevant certifications (FRM, PRM)\n",
+      "skills": [
+        "SQL",
+        "ETL",
+        "Risk Analytics",
+        "Banking",
+        "Oracle",
+        "Data Quality",
+        "English"
+      ],
+      "source": "HSBC Careers"
+    },
+    {
+      "company": "Apple",
+      "cn_company": "苹果",
+      "position": "Data Engineer - Supply Chain Analytics",
+      "location": "Shanghai, China",
+      "salary_range": "40-70k RMB/month",
+      "posted_date": "2026-02-12",
+      "job_description": "\nApple is seeking a Data Engineer to support supply chain and operations analytics.\n\nKey Responsibilities:\n- Design and implement data pipelines for supply chain data\n- Build data models to support inventory, logistics, and procurement analytics\n- Collaborate with operations teams across Asia-Pacific region\n- Develop automated reporting and monitoring solutions\n- Ensure data integrity and consistency across systems\n- Optimize data infrastructure for scale and performance\n\nMinimum Qualifications:\n- 5+ years of experience in data engineering\n- Expert SQL and Python programming skills\n- Experience with distributed computing (Spark, Hadoop)\n- Strong understanding of data warehousing and ETL concepts\n- Ability to work in fast-paced, dynamic environment\n- Excellent problem-solving and analytical skills\n- Proficient in English\n\nPreferred Qualifications:\n- Experience in supply chain or operations analytics\n- Knowledge of real-time data processing (Kafka, Flink)\n- Familiarity with data orchestration tools (Airflow)\n- Cloud platform experience (AWS, GCP, or Azure)\n- Background in manufacturing or retail industry\n",
+      "skills": [
+        "Python",
+        "SQL",
+        "Spark",
+        "Supply Chain",
+        "ETL",
+        "Cloud",
+        "English"
+      ],
+      "source": "Apple Careers"
+    },
+    {
+      "company": "Unilever",
+      "cn_company": "联合利华",
+      "position": "Business Intelligence Analyst",
+      "location": "Shanghai, China",
+      "salary_range": "25-45k RMB/month",
+      "posted_date": "2026-02-11",
+      "job_description": "\nUnilever is hiring a BI Analyst to support commercial analytics for FMCG brands.\n\nWhat You'll Do:\n- Create dashboards and reports to track business KPIs\n- Analyze sales, marketing, and consumer data\n- Support brand teams with ad-hoc analysis\n- Maintain and enhance BI infrastructure (Tableau, Power BI)\n- Collaborate with regional and global analytics teams\n- Identify opportunities for process automation\n\nWhat You Need:\n- 2-4 years of experience in BI or data analysis\n- Strong SQL and Excel skills\n- Hands-on experience with BI tools (Tableau, Power BI, or Looker)\n- Understanding of FMCG/retail business metrics\n- Ability to tell stories with data\n- Good English skills for global collaboration\n- Bachelor's degree in Business, Statistics, or related field\n\nBonus:\n- Python or R programming experience\n- Knowledge of marketing analytics\n- Experience with Google Analytics or similar tools\n- Understanding of consumer behavior\n",
+      "skills": [
+        "SQL",
+        "Tableau",
+        "Power BI",
+        "Excel",
+        "FMCG",
+        "Marketing Analytics",
+        "English"
+      ],
+      "source": "Unilever Careers"
+    }
+  ],
+  "skill_analysis": {
+    "total_jobs": 10,
+    "skill_frequency": {
+      "SQL": 10,
+      "English": 10,
+      "Python": 7,
+      "ETL": 5,
+      "Statistics": 3,
+      "Spark": 2,
+      "Data Warehousing": 2,
+      "Data Modeling": 2,
+      "Tableau": 2,
+      "Presentation": 2,
+      "Azure": 1,
+      "AWS": 1,
+      "Redshift": 1,
+      "Data Visualization": 1,
+      "Financial Analysis": 1,
+      "Dimensional Modeling": 1,
+      "Informatica": 1,
+      "dbt": 1,
+      "Modern Data Stack": 1,
+      "Cloud Platforms": 1
+    },
+    "technical_skills": {
+      "SQL": 10,
+      "Python": 7,
+      "ETL": 5,
+      "Statistics": 3,
+      "Spark": 2,
+      "Data Warehousing": 2,
+      "Data Modeling": 2,
+      "Presentation": 2,
+      "Azure": 1,
+      "Redshift": 1,
+      "Data Visualization": 1,
+      "Financial Analysis": 1,
+      "Dimensional Modeling": 1,
+      "Informatica": 1,
+      "Modern Data Stack": 1,
+      "Cloud Platforms": 1,
+      "Git": 1,
+      "Machine Learning": 1,
+      "Risk Analytics": 1,
+      "Banking": 1,
+      "Oracle": 1,
+      "Data Quality": 1,
+      "Supply Chain": 1,
+      "Cloud": 1,
+      "Power BI": 1,
+      "Excel": 1,
+      "FMCG": 1,
+      "Marketing Analytics": 1
+    },
+    "tools_platforms": {
+      "Tableau": 2,
+      "AWS": 1,
+      "dbt": 1
+    },
+    "soft_skills": {
+      "English": 10,
+      "Consulting": 1
+    },
+    "salary_analysis": {
+      "average_low": "33.5k RMB/month",
+      "average_high": "60.0k RMB/month",
+      "range": "25-80k RMB/month"
+    }
+  },
+  "learning_plan": {
+    "overview": {
+      "timeline": "6 months",
+      "goal": "从国内互联网传统数仓岗位转型到外企数据岗位",
+      "focus_areas": [
+        "技术能力提升",
+        "英语沟通能力",
+        "外企工作文化适应"
+      ]
+    },
+    "monthly_plan": {
+      "Month 1-2": {
+        "focus": "编程基础 + SQL精进",
+        "skills": [
+          {
+            "skill": "English",
+            "details": {
+              "priority": "Critical",
+              "learning_time": "Ongoing (6 months)",
+              "resources": [
+                "职场英语口语课程（如Wall Street English）",
+                "技术英语阅读（Medium, Dev.to文章）",
+                "参加英语角或语言交换",
+                "看英文技术视频（YouTube, Pluralsight）"
+              ],
+              "practice_projects": [
+                "每天阅读英文技术博客",
+                "用英文写技术文档",
+                "参加英文技术分享会",
+                "模拟英文面试练习"
+              ]
+            },
+            "frequency": 10,
+            "score": 0.0
+          },
+          {
+            "skill": "Data Warehousing",
+            "details": {
+              "priority": "High",
+              "learning_time": "1-2 months",
+              "resources": [
+                "《The Data Warehouse Toolkit》(Kimball)",
+                "《Building the Data Warehouse》(Inmon)",
+                "Coursera数据仓库专项课程",
+                "Modern Data Warehouse架构文章"
+              ],
+              "practice_projects": [
+                "设计Kimball维度模型（星型/雪花）",
+                "实现SCD（缓慢变化维）",
+                "构建事实表和维度表",
+                "学习Data Vault 2.0建模"
+              ]
+            },
+            "frequency": 2,
+            "score": 1.8
+          },
+          {
+            "skill": "Azure",
+            "details": {
+              "priority": "High",
+              "learning_time": "1-2 months",
+              "resources": [
+                "Microsoft Learn Azure数据工程路径",
+                "Azure Data Engineer Associate (DP-203)认证",
+                "Pluralsight Azure课程",
+                "Azure数据服务实践（Data Factory, Synapse, Databricks）"
+              ],
+              "practice_projects": [
+                "使用Azure Data Factory创建ETL管道",
+                "在Azure Databricks运行Spark作业",
+                "配置Azure Synapse Analytics",
+                "实现Azure DevOps CI/CD"
+              ]
+            },
+            "frequency": 1,
+            "score": 1.9
+          }
+        ],
+        "weekly_hours": "15-20小时",
+        "milestones": [
+          "完成Python核心语法",
+          "解决100+ SQL题目",
+          "英语技术阅读启动"
+        ]
+      },
+      "Month 3-4": {
+        "focus": "云平台 + 大数据技术",
+        "skills": [
+          {
+            "skill": "AWS",
+            "details": {
+              "priority": "High",
+              "learning_time": "1-2 months",
+              "resources": [
+                "AWS官方培训课程（免费）",
+                "A Cloud Guru AWS课程",
+                "AWS Solutions Architect Associate认证备考",
+                "AWS数据工程服务实践（Glue, EMR, Redshift）"
+              ],
+              "practice_projects": [
+                "在AWS免费套餐搭建数据管道",
+                "使用S3 + Glue + Athena构建数据湖",
+                "配置Redshift数据仓库",
+                "实现Lambda + EventBridge自动化任务"
+              ]
+            },
+            "frequency": 1,
+            "score": 1.9
+          },
+          {
+            "skill": "dbt",
+            "details": {
+              "priority": "Medium-High",
+              "learning_time": "2-4 weeks",
+              "resources": [
+                "dbt官方文档和教程",
+                "dbt Learn免费课程",
+                "《Analytics Engineering with dbt》",
+                "dbt Discourse社区"
+              ],
+              "practice_projects": [
+                "搭建dbt项目结构",
+                "编写dbt模型和测试",
+                "实现增量模型和快照",
+                "配置dbt Cloud CI/CD"
+              ]
+            },
+            "frequency": 1,
+            "score": 2.4
+          },
+          {
+            "skill": "Statistics",
+            "details": {
+              "priority": "Medium",
+              "learning_time": "1-2 months",
+              "resources": [
+                "《Statistics for Business and Economics》",
+                "Khan Academy统计学课程",
+                "Coursera统计推断专项课程",
+                "《Practical Statistics for Data Scientists》"
+              ],
+              "practice_projects": [
+                "掌握描述性统计和推断统计",
+                "学习假设检验和置信区间",
+                "理解A/B测试原理",
+                "实践回归分析和相关分析"
+              ]
+            },
+            "frequency": 3,
+            "score": 2.7
+          }
+        ],
+        "weekly_hours": "15-20小时",
+        "milestones": [
+          "获得云平台认证",
+          "完成Spark项目",
+          "英语口语提升"
+        ]
+      },
+      "Month 5": {
+        "focus": "现代数据栈 + BI工具",
+        "skills": [
+          {
+            "skill": "Tableau",
+            "details": {
+              "priority": "Medium",
+              "learning_time": "2-3 weeks",
+              "resources": [
+                "Tableau Desktop Specialist认证",
+                "Tableau Public Gallery学习",
+                "《Tableau Your Data》书籍",
+                "Tableau官方培训视频"
+              ],
+              "practice_projects": [
+                "创建交互式仪表板",
+                "实现高级计算和LOD表达式",
+                "连接多数据源进行混合",
+                "发布到Tableau Server/Online"
+              ]
+            },
+            "frequency": 2,
+            "score": 2.8
+          }
+        ],
+        "weekly_hours": "12-15小时",
+        "milestones": [
+          "掌握dbt和Airflow",
+          "创建BI仪表板作品集"
+        ]
+      },
+      "Month 6": {
+        "focus": "综合项目 + 面试准备",
+        "skills": [],
+        "weekly_hours": "10-15小时",
+        "milestones": [
+          "完成端到端数据项目",
+          "准备英文简历和面试",
+          "开始投递简历"
+        ]
+      }
+    },
+    "skill_roadmap": [
+      {
+        "phase": "Foundation (第1-2月)",
+        "goals": [
+          "强化Python编程（数据处理、脚本开发）",
+          "精通SQL（复杂查询、性能优化、窗口函数）",
+          "掌握Git版本控制",
+          "开始技术英语学习"
+        ]
+      },
+      {
+        "phase": "Cloud & Big Data (第3-4月)",
+        "goals": [
+          "学习至少一个云平台（AWS/Azure，根据目标公司选择）",
+          "掌握Spark大数据处理",
+          "理解云数据仓库架构",
+          "提升英语阅读和写作"
+        ]
+      },
+      {
+        "phase": "Modern Data Stack (第5月)",
+        "goals": [
+          "学习dbt进行数据转换",
+          "掌握Airflow任务调度",
+          "熟练使用BI工具（Tableau或Power BI）",
+          "练习英语口语表达"
+        ]
+      },
+      {
+        "phase": "Integration & Job Hunt (第6月)",
+        "goals": [
+          "完成综合数据工程项目",
+          "准备英文简历和作品集",
+          "模拟英文技术面试",
+          "开始投递外企职位"
+        ]
+      }
+    ],
+    "certifications": [
+      {
+        "name": "AWS Certified Data Analytics - Specialty",
+        "provider": "Amazon Web Services",
+        "difficulty": "Medium",
+        "prep_time": "1-2 months",
+        "value": "Very High for AWS-focused roles",
+        "cost": "$300"
+      },
+      {
+        "name": "Microsoft Certified: Azure Data Engineer Associate (DP-203)",
+        "provider": "Microsoft",
+        "difficulty": "Medium",
+        "prep_time": "1-2 months",
+        "value": "Very High for Azure-focused roles",
+        "cost": "$165"
+      },
+      {
+        "name": "Google Cloud Professional Data Engineer",
+        "provider": "Google Cloud",
+        "difficulty": "Hard",
+        "prep_time": "2-3 months",
+        "value": "High for GCP-focused roles",
+        "cost": "$200"
+      },
+      {
+        "name": "dbt Analytics Engineering Certification",
+        "provider": "dbt Labs",
+        "difficulty": "Easy-Medium",
+        "prep_time": "2-3 weeks",
+        "value": "High for modern data stack roles",
+        "cost": "Free"
+      },
+      {
+        "name": "Tableau Desktop Specialist",
+        "provider": "Tableau",
+        "difficulty": "Easy",
+        "prep_time": "2-3 weeks",
+        "value": "Medium for BI-focused roles",
+        "cost": "$100"
+      }
+    ],
+    "english_improvement": {
+      "daily_routine": [
+        "晨读：20分钟英文技术文章或文档",
+        "午休：收听英文技术播客（Data Engineering Podcast, Software Engineering Daily）",
+        "晚上：看英文技术视频（YouTube, Pluralsight）30分钟"
+      ],
+      "weekly_practice": [
+        "参加1-2次英语角或线上语言交换",
+        "写1篇英文技术博客或总结",
+        "模拟1次英文技术面试"
+      ],
+      "resources": [
+        "技术英语词汇表（数据工程相关术语）",
+        "STAR面试法英文回答模板",
+        "常见技术面试问题英文版",
+        "LinkedIn Learning职场英语课程"
+      ],
+      "milestone_goals": {
+        "Month 2": "能流畅阅读英文技术文档",
+        "Month 4": "能用英文写清晰的技术邮件和文档",
+        "Month 6": "能用英文进行技术面试和日常工作沟通"
+      }
+    },
+    "job_preparation": {
+      "resume": [
+        "使用英文简历模板（针对外企）",
+        "突出量化成果（processed XX TB data, improved performance by XX%）",
+        "强调云平台和现代工具经验",
+        "添加GitHub项目链接",
+        "请母语人士或专业服务润色"
+      ],
+      "portfolio": [
+        "在GitHub搭建数据工程项目展示",
+        "项目1：云平台数据管道（AWS/Azure + Airflow + dbt）",
+        "项目2：实时数据处理（Kafka + Spark Streaming）",
+        "项目3：BI仪表板（Tableau/Power BI with storytelling）",
+        "所有项目包含详细英文README和文档"
+      ],
+      "interview_prep": [
+        "SQL刷题：LeetCode Database所有Medium/Hard题目",
+        "Python编程：掌握数据结构和算法基础",
+        "系统设计：学习数据系统设计（参考《Designing Data-Intensive Applications》）",
+        "行为面试：准备STAR格式英文回答",
+        "模拟面试：通过Pramp或朋友进行英文模拟面试"
+      ],
+      "networking": [
+        "优化LinkedIn profile（英文）",
+        "关注目标公司和行业领袖",
+        "参加线上/线下数据工程meetup",
+        "在技术社区（Reddit, Blind）活跃",
+        "联系在外企工作的校友或朋友内推"
+      ],
+      "target_companies": [
+        "优先级1（数据密集型科技公司）：Microsoft, Amazon, Apple, SAP",
+        "优先级2（咨询公司数据岗）：Accenture, Deloitte, PwC, EY",
+        "优先级3（金融机构）：HSBC, Citi, Goldman Sachs, JPMorgan",
+        "优先级4（其他外企）：Unilever, Nike, BMW等有数据团队的公司"
+      ]
+    }
+  }
+}

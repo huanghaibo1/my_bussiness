@@ -1,0 +1,181 @@
+====================================================================================================
+从传统数仓到外企数据岗位 - 6个月学习计划
+====================================================================================================
+
+目标:
+从国内互联网传统数仓岗位转型到外企数据岗位
+
+月度计划:
+----------------------------------------------------------------------------------------------------
+
+Month 1-2: 编程基础 + SQL精进
+每周投入: 15-20小时
+
+学习内容:
+
+  English (Ongoing (6 months))
+  优先级: Critical
+  学习资源:
+    - 职场英语口语课程（如Wall Street English）
+    - 技术英语阅读（Medium, Dev.to文章）
+    - 参加英语角或语言交换
+    - 看英文技术视频（YouTube, Pluralsight）
+  实践项目:
+    - 每天阅读英文技术博客
+    - 用英文写技术文档
+    - 参加英文技术分享会
+    - 模拟英文面试练习
+
+  Data Warehousing (1-2 months)
+  优先级: High
+  学习资源:
+    - 《The Data Warehouse Toolkit》(Kimball)
+    - 《Building the Data Warehouse》(Inmon)
+    - Coursera数据仓库专项课程
+    - Modern Data Warehouse架构文章
+  实践项目:
+    - 设计Kimball维度模型（星型/雪花）
+    - 实现SCD（缓慢变化维）
+    - 构建事实表和维度表
+    - 学习Data Vault 2.0建模
+
+  Azure (1-2 months)
+  优先级: High
+  学习资源:
+    - Microsoft Learn Azure数据工程路径
+    - Azure Data Engineer Associate (DP-203)认证
+    - Pluralsight Azure课程
+    - Azure数据服务实践（Data Factory, Synapse, Databricks）
+  实践项目:
+    - 使用Azure Data Factory创建ETL管道
+    - 在Azure Databricks运行Spark作业
+    - 配置Azure Synapse Analytics
+    - 实现Azure DevOps CI/CD
+
+  里程碑:
+    ✓ 完成Python核心语法
+    ✓ 解决100+ SQL题目
+    ✓ 英语技术阅读启动
+
+
+Month 3-4: 云平台 + 大数据技术
+每周投入: 15-20小时
+
+学习内容:
+
+  AWS (1-2 months)
+  优先级: High
+  学习资源:
+    - AWS官方培训课程（免费）
+    - A Cloud Guru AWS课程
+    - AWS Solutions Architect Associate认证备考
+    - AWS数据工程服务实践（Glue, EMR, Redshift）
+  实践项目:
+    - 在AWS免费套餐搭建数据管道
+    - 使用S3 + Glue + Athena构建数据湖
+    - 配置Redshift数据仓库
+    - 实现Lambda + EventBridge自动化任务
+
+  dbt (2-4 weeks)
+  优先级: Medium-High
+  学习资源:
+    - dbt官方文档和教程
+    - dbt Learn免费课程
+    - 《Analytics Engineering with dbt》
+    - dbt Discourse社区
+  实践项目:
+    - 搭建dbt项目结构
+    - 编写dbt模型和测试
+    - 实现增量模型和快照
+    - 配置dbt Cloud CI/CD
+
+  Statistics (1-2 months)
+  优先级: Medium
+  学习资源:
+    - 《Statistics for Business and Economics》
+    - Khan Academy统计学课程
+    - Coursera统计推断专项课程
+    - 《Practical Statistics for Data Scientists》
+  实践项目:
+    - 掌握描述性统计和推断统计
+    - 学习假设检验和置信区间
+    - 理解A/B测试原理
+    - 实践回归分析和相关分析
+
+  里程碑:
+    ✓ 获得云平台认证
+    ✓ 完成Spark项目
+    ✓ 英语口语提升
+
+
+Month 5: 现代数据栈 + BI工具
+每周投入: 12-15小时
+
+学习内容:
+
+  Tableau (2-3 weeks)
+  优先级: Medium
+  学习资源:
+    - Tableau Desktop Specialist认证
+    - Tableau Public Gallery学习
+    - 《Tableau Your Data》书籍
+    - Tableau官方培训视频
+  实践项目:
+    - 创建交互式仪表板
+    - 实现高级计算和LOD表达式
+    - 连接多数据源进行混合
+    - 发布到Tableau Server/Online
+
+  里程碑:
+    ✓ 掌握dbt和Airflow
+    ✓ 创建BI仪表板作品集
+
+
+Month 6: 综合项目 + 面试准备
+每周投入: 10-15小时
+
+
+  里程碑:
+    ✓ 完成端到端数据项目
+    ✓ 准备英文简历和面试
+    ✓ 开始投递简历
+
+
+====================================================================================================
+英语提升计划
+====================================================================================================
+
+每日练习:
+  • 晨读：20分钟英文技术文章或文档
+  • 午休：收听英文技术播客（Data Engineering Podcast, Software Engineering Daily）
+  • 晚上：看英文技术视频（YouTube, Pluralsight）30分钟
+
+每周实践:
+  • 参加1-2次英语角或线上语言交换
+  • 写1篇英文技术博客或总结
+  • 模拟1次英文技术面试
+
+====================================================================================================
+求职准备清单
+====================================================================================================
+
+简历准备:
+  □ 使用英文简历模板（针对外企）
+  □ 突出量化成果（processed XX TB data, improved performance by XX%）
+  □ 强调云平台和现代工具经验
+  □ 添加GitHub项目链接
+  □ 请母语人士或专业服务润色
+
+作品集项目:
+  □ 在GitHub搭建数据工程项目展示
+  □ 项目1：云平台数据管道（AWS/Azure + Airflow + dbt）
+  □ 项目2：实时数据处理（Kafka + Spark Streaming）
+  □ 项目3：BI仪表板（Tableau/Power BI with storytelling）
+  □ 所有项目包含详细英文README和文档
+
+面试准备:
+  □ SQL刷题：LeetCode Database所有Medium/Hard题目
+  □ Python编程：掌握数据结构和算法基础
+  □ 系统设计：学习数据系统设计（参考《Designing Data-Intensive Applications》）
+  □ 行为面试：准备STAR格式英文回答
+  □ 模拟面试：通过Pramp或朋友进行英文模拟面试

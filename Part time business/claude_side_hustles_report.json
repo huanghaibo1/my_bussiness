@@ -1,0 +1,295 @@
+{
+  "generated_at": "2026-02-14T11:18:37.628412",
+  "side_hustles": [
+    {
+      "category": "内容创作",
+      "opportunities": [
+        {
+          "name": "AI辅助写作服务",
+          "description": "为企业、个人提供博客文章、营销文案、产品描述等写作服务",
+          "skills_needed": [
+            "文案策划",
+            "行业知识",
+            "编辑能力"
+          ],
+          "potential_income": "中等（$500-$2000/月）",
+          "platforms": [
+            "Fiverr",
+            "Upwork",
+            "国内自媒体平台"
+          ]
+        },
+        {
+          "name": "技术文档撰写",
+          "description": "帮助科技公司编写API文档、用户手册、技术博客",
+          "skills_needed": [
+            "技术理解",
+            "文档规范",
+            "清晰表达"
+          ],
+          "potential_income": "高（$1000-$5000/月）",
+          "platforms": [
+            "Upwork",
+            "Toptal",
+            "直接对接企业"
+          ]
+        },
+        {
+          "name": "小说/故事创作",
+          "description": "创作短篇小说、剧本大纲、故事情节",
+          "skills_needed": [
+            "创意思维",
+            "叙事能力",
+            "编辑打磨"
+          ],
+          "potential_income": "低-中等（$200-$1000/月）",
+          "platforms": [
+            "晋江文学城",
+            "起点中文网",
+            "Wattpad"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "编程开发",
+      "opportunities": [
+        {
+          "name": "AI辅助编程服务",
+          "description": "使用Claude辅助快速开发网站、小程序、自动化脚本",
+          "skills_needed": [
+            "编程基础",
+            "需求分析",
+            "测试调试"
+          ],
+          "potential_income": "高（$2000-$10000/月）",
+          "platforms": [
+            "GitHub",
+            "Upwork",
+            "猪八戒网"
+          ]
+        },
+        {
+          "name": "代码审查与优化",
+          "description": "帮助项目进行代码review、性能优化、安全审计",
+          "skills_needed": [
+            "代码审查经验",
+            "最佳实践",
+            "安全知识"
+          ],
+          "potential_income": "高（$1500-$5000/月）",
+          "platforms": [
+            "Toptal",
+            "直接对接企业"
+          ]
+        },
+        {
+          "name": "开发AI工具/插件",
+          "description": "开发基于Claude API的工具、浏览器插件、VSCode扩展",
+          "skills_needed": [
+            "全栈开发",
+            "API集成",
+            "产品设计"
+          ],
+          "potential_income": "中-高（$500-$5000/月）",
+          "platforms": [
+            "Chrome Store",
+            "VS Code Marketplace",
+            "独立销售"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "教育培训",
+      "opportunities": [
+        {
+          "name": "AI工具培训课程",
+          "description": "教授如何使用Claude等AI工具提升工作效率",
+          "skills_needed": [
+            "教学能力",
+            "课程设计",
+            "营销推广"
+          ],
+          "potential_income": "中-高（$1000-$5000/月）",
+          "platforms": [
+            "知识星球",
+            "Udemy",
+            "小鹅通"
+          ]
+        },
+        {
+          "name": "一对一AI咨询",
+          "description": "为企业或个人提供AI应用咨询服务",
+          "skills_needed": [
+            "行业经验",
+            "咨询能力",
+            "方案设计"
+          ],
+          "potential_income": "高（$2000-$10000/月）",
+          "platforms": [
+            "LinkedIn",
+            "行在",
+            "直接对接"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "数据处理",
+      "opportunities": [
+        {
+          "name": "数据分析报告",
+          "description": "使用Claude辅助分析数据、生成商业洞察报告",
+          "skills_needed": [
+            "数据分析",
+            "统计知识",
+            "报告撰写"
+          ],
+          "potential_income": "中-高（$800-$3000/月）",
+          "platforms": [
+            "Upwork",
+            "Fiverr",
+            "企业直接合作"
+          ]
+        },
+        {
+          "name": "数据清洗与处理",
+          "description": "帮助处理非结构化数据、文本提取、格式转换",
+          "skills_needed": [
+            "Python/脚本",
+            "数据处理",
+            "正则表达式"
+          ],
+          "potential_income": "中等（$500-$2000/月）",
+          "platforms": [
+            "Upwork",
+            "Freelancer"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "翻译本地化",
+      "opportunities": [
+        {
+          "name": "AI辅助翻译服务",
+          "description": "使用Claude进行初译，人工精修润色",
+          "skills_needed": [
+            "双语能力",
+            "行业术语",
+            "文化理解"
+          ],
+          "potential_income": "中等（$600-$2500/月）",
+          "platforms": [
+            "有道翻译",
+            "Gengo",
+            "做到网"
+          ]
+        },
+        {
+          "name": "软件/游戏本地化",
+          "description": "翻译软件界面、游戏内容、应用描述",
+          "skills_needed": [
+            "技术翻译",
+            "本地化经验",
+            "测试能力"
+          ],
+          "potential_income": "中-高（$1000-$4000/月）",
+          "platforms": [
+            "直接对接游戏公司",
+            "本地化平台"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "营销服务",
+      "opportunities": [
+        {
+          "name": "社交媒体内容管理",
+          "description": "为企业管理社交媒体、创作发布内容",
+          "skills_needed": [
+            "营销知识",
+            "内容策划",
+            "数据分析"
+          ],
+          "potential_income": "中等（$500-$3000/月）",
+          "platforms": [
+            "Upwork",
+            "直接对接企业"
+          ]
+        },
+        {
+          "name": "SEO内容优化",
+          "description": "优化网站内容、撰写SEO友好文章",
+          "skills_needed": [
+            "SEO知识",
+            "关键词研究",
+            "内容创作"
+          ],
+          "potential_income": "中-高（$800-$4000/月）",
+          "platforms": [
+            "Fiverr",
+            "SEMrush Marketplace"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "创意设计辅助",
+      "opportunities": [
+        {
+          "name": "品牌命名与文案",
+          "description": "为产品、公司提供命名建议和品牌故事",
+          "skills_needed": [
+            "创意思维",
+            "品牌理解",
+            "市场调研"
+          ],
+          "potential_income": "中等（$500-$2000/月）",
+          "platforms": [
+            "猪八戒网",
+            "Upwork",
+            "直接对接"
+          ]
+        },
+        {
+          "name": "提示词工程服务",
+          "description": "为企业设计优化AI提示词，提升AI输出质量",
+          "skills_needed": [
+            "Prompt工程",
+            "AI理解",
+            "场景分析"
+          ],
+          "potential_income": "中-高（$1000-$5000/月）",
+          "platforms": [
+            "PromptBase",
+            "直接咨询"
+          ]
+        }
+      ]
+    }
+  ],
+  "action_plan": [
+    "1. 自我评估：确定你的核心技能和兴趣方向",
+    "2. 选择方向：从上述副业中选择1-2个最匹配的方向",
+    "3. 学习提升：深入学习Claude的高级使用技巧和提示词工程",
+    "4. 建立作品集：完成2-3个样本项目展示你的能力",
+    "5. 注册平台：在相关平台创建专业的服务账号",
+    "6. 设定价格：研究市场价格，设定合理的初始定价",
+    "7. 营销推广：在社交媒体、行业社区宣传你的服务",
+    "8. 优质交付：确保前几单高质量完成，积累好评",
+    "9. 持续优化：根据客户反馈不断改进服务流程",
+    "10. 规模化：考虑建立团队或开发自动化工具提升效率"
+  ],
+  "important_tips": [
+    "⚠️ 遵守平台规则：不要隐瞒使用AI工具，但强调人工审核和优化的价值",
+    "⚠️ 保护客户隐私：不要将客户数据输入Claude，注意数据安全",
+    "⚠️ 质量第一：AI只是工具，最终交付物需要人工把关",
+    "⚠️ 持续学习：AI技术快速发展，需要不断学习新功能和最佳实践",
+    "⚠️ 合法合规：遵守当地法律法规，必要时注册个体户或公司",
+    "⚠️ API成本：如果使用Claude API，注意成本控制和定价策略",
+    "⚠️ 差异化竞争：不要单纯依赖AI，要结合你的专业知识形成独特优势"
+  ]
+}
