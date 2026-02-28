@@ -37,19 +37,22 @@ def analyze_timeseries(df):
     daily_avg['rolling_7d'] = daily_avg['value'].rolling(window=7).mean()
 
     # Month-over-month growth
-    monthly = df.resample('M').sum()
+    monthly = df.resample('ME').sum()
     monthly['mom_growth'] = monthly['value'].pct_change() * 100
 
     return daily_avg, monthly
 
 # Test
 def test_timeseries():
-    dates = pd.date_range('2024-01-01', periods=30, freq='12H')
+    dates = pd.date_range('2024-01-01', periods=30, freq='12h')
     data = {
         'timestamp': dates,
         'value': np.random.randint(100, 200, 30)
     }
     df = pd.DataFrame(data)
+    print("原始数据:")  
+    print(df.head())
+    print()
 
     daily, monthly = analyze_timeseries(df)
     print("题目4 - 时间序列分析:")
