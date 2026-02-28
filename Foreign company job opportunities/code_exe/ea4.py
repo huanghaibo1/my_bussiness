@@ -44,21 +44,46 @@ def analyze_timeseries(df):
 
 # Test
 def test_timeseries():
-    dates = pd.date_range('2024-01-01', periods=30, freq='12h')
+    # 生成3个月的数据（每12小时一个点，共180个点）
+    dates = pd.date_range('2024-01-01', periods=180, freq='12h')
+    # 模拟有增长趋势的数据（随着时间增长，基础值增加）
+    np.random.seed(42)  # 设置随机种子，确保结果可复现
+    base_values = np.linspace(100, 150, 180)  # 从100逐渐增长到150
+    noise = np.random.randint(-20, 20, 180)   # 添加随机波动
+    values = base_values + noise
+
     data = {
         'timestamp': dates,
-        'value': np.random.randint(100, 200, 30)
+        'value': values
     }
     df = pd.DataFrame(data)
     print("原始数据:")  
-    print(df.head())
+    print(df.head()) ## head 显示前5行数据
     print()
 
     daily, monthly = analyze_timeseries(df)
-    print("题目4 - 时间序列分析:")
-    print("Daily averages (first 5):")
-    print(daily.head())
+    print("=" * 60)
+    print("题目4 - 时间序列分析")
+    print("=" * 60)
+
+    print("\n【1. 每日平均值】前5天:")
+    print(daily[['value']].head())
+
+    print("\n【2. 7日滚动平均】第7-10天（开始有数据）:")
+    print(daily[['value', 'rolling_7d']].iloc[6:10]) ## iloc 从第7行开始显示，显示4行数据
+
+    print("\n【3. 月度汇总与环比增长】:")
+    print("-" * 60)
+    print(f"{'月份':<15} {'月度总和':<15} {'环比增长率':<15}")
+    print("-" * 60)
+    for idx, row in monthly.iterrows():
+        month_str = idx.strftime('%Y年%m月')
+        value_str = f"{row['value']:.2f}"
+        growth_str = f"{row['mom_growth']:.2f}%" if not pd.isna(row['mom_growth']) else "N/A (首月)"
+        print(f"{month_str:<15} {value_str:<15} {growth_str:<15}")
+    print("=" * 60)
     print()
+    
 
 if __name__ == "__main__":
     test_timeseries()
